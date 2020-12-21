@@ -1,0 +1,44 @@
+{
+    "Grains": {
+        "rice": [{
+            "name": "basumati",
+            "weight": 10,
+            "price": 50
+        }, {
+            "name": "Fortune",
+            "weight": 15,
+            "price": 70
+        }, {
+            "name": "Dawat",
+            "weight": 20,
+            "price": 100
+        }],
+        "wheat": [{
+            "name": "ashirvad",
+            "weight": 10,
+            "price": 50
+        }, {
+            "name": "Hati",
+            "weight": 20,
+            "price": 20
+        }, {
+            "name": "parivar",
+            "weight": 25,
+            "price": 50
+        }],
+        "pulse": [{
+            "name": "arad",
+            "weight": 5,
+            "price": 100
+        }, {
+            "name": "mong",
+            "weight": 10,
+            "price": 50
+        }, {
+            "name": "cowpeas",
+            "weight": 15,
+            "price": 100
+        }]
+       
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "Stock": [
+        {
+            "name": "Nexright",
+            "numberOfShares": "10",
+            "price": "150"
+        },
+        {
+            "name": "Reliance",
+            "numberOfShares": "5",
+            "price": "500"
+        },
+        {
+            "name": "Wipro",
+            "numberOfShares": "10",
+            "price": "50"
+        },
+        {
+            "name": "Hcl",
+            "numberOfShares": "12",
+            "price": "120"
+        }  
+    ]
+}
